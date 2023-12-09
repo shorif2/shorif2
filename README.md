@@ -14,7 +14,7 @@
   <b>Hi there, Shorif Ahamed</b>
 </h2>
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 28px;">
   <b>Hi there, Shorif Ahamed</b>
 </p>
 
