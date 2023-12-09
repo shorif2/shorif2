@@ -35,6 +35,8 @@
 
 ![Alt Text](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorif2&theme=default){width=100px}
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorif2&theme=default" alt="Alt Text" width="100px">
+
   
 ## My Skills
 
