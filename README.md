@@ -4,7 +4,10 @@
 
 <h2 align="center"><span style="text-decoration: none;">Hi there, Shorif Ahamed</span></h2>
 
-<h2 align="center"><span style="text-decoration: none;">MERN Stack Web Developer</span></h2>
+## Hi there, Shorif Ahamed
+{: style="text-align:center; text-decoration:none;"}
+
+
 <h2 align="center">MERN Stack Web Developer</h2>
 <p align="center">
   <h3>MERN Stack Web Developer</h3>
