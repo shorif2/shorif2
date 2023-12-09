@@ -1,26 +1,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/shorif2/shorif2/main/wepik-blue-business-twitter-header-20231209065233RxFa.png)
 
-
-<h2 align="center"><span style="text-decoration: none;">Hi there, Shorif Ahamed</span></h2>
-
-## Hi there, Shorif Ahamed
-{: style="text-align:center; text-decoration:none;"}
-
-
-<h2 align="center">MERN Stack Web Developer</h2>
-
 <h2 align="center">
   <b>Hi there, Shorif Ahamed</b>
 </h2>
-
-<p align="center" style="font-size: 28px;">
-  <b>Hi there, Shorif Ahamed</b>
-</p>
-
-<p align="center" style="font-size: 18px;">
-  <strong>Your Centered Text Here</strong>
-</p>
 
 <p align="center">
   <b>MERN Stack Web Developer</b>
