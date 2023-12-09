@@ -13,8 +13,8 @@
   <b>MERN Stack Web Developer</b>
 </p>
 
-<div align="center">
- - 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,10 +22,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</div>
+
 
 ## Current Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)]([https://git.io/streak-stats](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic))
+ <div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)]([https://git.io/streak-stats](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic))
+  
+ </div>
 ## My Skills
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,react,figma,firebase)](https://skillicons.dev)
  ## My Activity
