@@ -10,6 +10,9 @@
 
 <h2 align="center">MERN Stack Web Developer</h2>
 
+<h2 align="center">
+  <b>Hi there, Shorif Ahamed</b>
+</h2>
 
 <p align="center">
   <b>MERN Stack Web Developer</b>
