@@ -1,9 +1,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/shorif2/shorif2/main/wepik-blue-business-twitter-header-20231209065233RxFa.png)
 
-<p align="center">
-  <h2>Hi there, Shorif Ahamed</h2>
-</p>
+<h2 align="center">Hi there, Shorif Ahamed</h2>
+
+<h2 align="center">MERN Stack Web Developer</h2>
 <p align="center">
   <h3>MERN Stack Web Developer</h3>
 </p>
