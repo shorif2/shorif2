@@ -2,9 +2,11 @@
 ![Alt Text](https://raw.githubusercontent.com/shorif2/shorif2/main/wepik-blue-business-twitter-header-20231209065233RxFa.png)
 
 <p align="center">
-  <b>### Hi there 👋</b>
+  <h2>Hi there, Shorif Ahamed</h2>
 </p>
-Here are some ideas to get you started:
+<p align="center">
+  <h3>MERN Stack Web Developer</h3>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
