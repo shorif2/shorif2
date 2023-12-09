@@ -24,9 +24,17 @@
 - ⚡ Fun fact: ...
 
 
+
+
+
+
 ## Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)]([https://git.io/streak-stats](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic))
+
+
+
+
   
 ## My Skills
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,react,figma,firebase)](https://skillicons.dev)
