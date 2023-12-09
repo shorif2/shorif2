@@ -18,6 +18,10 @@
   <b>Hi there, Shorif Ahamed</b>
 </p>
 
+<p align="center" style="font-size: 18px;">
+  <strong>Your Centered Text Here</strong>
+</p>
+
 <p align="center">
   <b>MERN Stack Web Developer</b>
 </p>
