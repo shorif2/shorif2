@@ -2,7 +2,7 @@
 ![Alt Text](https://raw.githubusercontent.com/shorif2/shorif2/main/wepik-blue-business-twitter-header-20231209065233RxFa.png)
 
 <h2 align="center">
-  <b>Hi there, Shorif Ahamed</b>
+ Hi there, Shorif Ahamed
 </h2>
 
 <p align="center">
