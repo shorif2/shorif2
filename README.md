@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)]([https://git.io/streak-stats](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic))
 
-[https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic)
 
 **shorif2/shorif2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
