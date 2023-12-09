@@ -9,8 +9,10 @@
 
 
 <h2 align="center">MERN Stack Web Developer</h2>
+
+
 <p align="center">
-  <h3>MERN Stack Web Developer</h3>
+  <b>MERN Stack Web Developer</b>
 </p>
 
 - 🔭 I’m currently working on ...
