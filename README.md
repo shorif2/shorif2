@@ -33,7 +33,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shorif2&card_width=850)]([https://git.io/streak-stats](https://api.githubtrends.io/user/svg/shorif2/langs?time_range=one_year&theme=classic))
 
 
-
+![Alt Text](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorif2&theme=default){width=100px}
 
   
 ## My Skills
@@ -42,7 +42,9 @@
 
  
  ## My Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorif2&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shorif2&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shorif2&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorif2&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shorif2&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shorif2&theme=default)
 
 
 
