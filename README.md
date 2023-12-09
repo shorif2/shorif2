@@ -1,6 +1,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/shorif2/shorif2/main/wepik-blue-business-twitter-header-20231209065233RxFa.png)
-### Hi there 👋
+
+<p align="center">
+  <b>### Hi there 👋</b>
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
