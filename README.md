@@ -14,6 +14,10 @@
   <b>Hi there, Shorif Ahamed</b>
 </h2>
 
+<p align="center" style="font-size: 18px;">
+  <b>Hi there, Shorif Ahamed</b>
+</p>
+
 <p align="center">
   <b>MERN Stack Web Developer</b>
 </p>
