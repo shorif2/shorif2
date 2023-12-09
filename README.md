@@ -18,10 +18,10 @@
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on senior web developer
 - 🤔 I’m looking for help with MERN Stack Web Development
-- 💬 Ask me about ...
+- 💬 Ask me about Front-end Web Development
 - 📫 How to reach me: text me <xshorifahamed@gmail.com>
 - 😄 Pronouns: Shorif Ahamed
-- ⚡ Fun fact: I can do code all day
+- ⚡ Fun fact: I can coding  all day long.
 
 
 
