@@ -9,10 +9,6 @@
 
 </div>
 
-<h2 align="center">
- Hi there, Shorif Ahamed
-</h2>
-
 <p align="center">
   <b>MERN Stack Web Developer</b>
 </p>
