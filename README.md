@@ -38,7 +38,7 @@
   
 ## My Skills
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,react,figma,firebase)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,react,figma,firebase,ts,vscode)](https://skillicons.dev)
 
  
  ## My Activity
