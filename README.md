@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on Flips
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Express.js
 - 👯 I’m looking to collaborate on senior web developer
 - 🤔 I’m looking for help with MERN Stack Web Development
 - 💬 Ask me about Front-end Web Development
